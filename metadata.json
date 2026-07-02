@@ -1,0 +1,6 @@
+{
+  "name": "BusPing",
+  "description": "A modern real-time school bus tracking platform featuring interactive live maps, driver simulation/tracking mode, OSRM routing, student ETA calculation, and 'I'm Waiting' stop status.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
